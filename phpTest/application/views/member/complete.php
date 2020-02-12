@@ -21,7 +21,7 @@ PASS :: <?= $result['password'];?>
 NAME :: <?= $result['userName'];?>
     <br><br>
 </div>
-<a href="/application/router/router.php/member/login">login</a>
-<a href="/application/router/router.php/main">홈으로</a>
+<a href="/member/login">login</a>
+<a href="/main">홈으로</a>
 </body>
 </html>

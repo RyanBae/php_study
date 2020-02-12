@@ -15,7 +15,9 @@
 <br>
 <div style="border: solid 1px #191919; width: 300px;">
     <br>
-    <form action="/application/router/router.php/member/user_insert" method="post">
+    <form action="/mypage/passwordUpdate" method="post">
+        <input type="hidden" name="userId" value="<?= $result['userId']?>">
+        <input type="hidden" name="userName" value="<?= $result['userName']?>">
         ID :: <?= $result['userId']?><br>
         PASS :: <input type="text" name="password"><br>
         NEW PASS :: <input type="text" name="newPassword"><br>
@@ -23,7 +25,7 @@
         <button type="submit">정보수정</button>
     </form>
 </div>
-<a href="/application/router/router.php/main">홈으로</a>
+<a href="/main">홈으로</a>
 <a href="">탈퇴하기</a>
 </body>
 </html>

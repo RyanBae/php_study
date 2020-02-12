@@ -13,7 +13,7 @@
 <h2>로그인 완료</h2>
 <h3>환영합니다. <?= $result['userName']; ?> 님</h3>
 <br>
-<a href="/application/router/router.php/mypage/update">MY PAGE</a>
-<a href="/application/router/router.php/main">홈으로</a>
+<a href="/mypage/update">MY PAGE</a>
+<a href="/main">홈으로</a>
 </body>
 </html>

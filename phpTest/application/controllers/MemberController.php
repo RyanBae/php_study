@@ -5,7 +5,7 @@ class MemberController {
         echo "> singup";
         require_once $_SERVER['DOCUMENT_ROOT'] . '/application/views/member/singup.php';
     }
-    public function user_insert($data){
+    public function userInsert($data){
         echo "> user_insert";
         //db_insert로직 추가
 
@@ -23,7 +23,7 @@ class MemberController {
         require_once $_SERVER['DOCUMENT_ROOT'].'/application/views/member/login.php';
     }
 
-    public function login_complete($data){
+    public function loginComplete($data){
         echo "> login_complete";
         //db_insert로직 추가
 

@@ -13,4 +13,14 @@ class MypageController{
         require_once $_SERVER['DOCUMENT_ROOT'].'/application/views/mypage/update.php';
     }
 
+    public function passwordUpdate($data){
+        echo 'Mypage > passwordUpdate';
+
+        echo $data['userId'];
+        echo $data['userName'];
+        echo $data['password'];
+        echo $data['newPassword'];
+        require_once $_SERVER['DOCUMENT_ROOT'].'/application/views/mypage/updateComplete.php';
+    }
+
 }

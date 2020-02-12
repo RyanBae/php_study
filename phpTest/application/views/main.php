@@ -9,7 +9,7 @@
 </head>
 <body>
     <h2>Hello World!!</h2>
-    <a href="/application/router/router.php/member/singup">회원가입</a>
-    <a href="/application/router/router.php/member/login">로그인</a>
+    <a href="/member/singup">회원가입</a>
+    <a href="/member/login">로그인</a>
 </body>
 </html>
