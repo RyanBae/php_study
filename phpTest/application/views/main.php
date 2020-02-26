@@ -11,5 +11,6 @@
     <h2>Hello World!!</h2>
     <a href="/member/singup">회원가입</a>
     <a href="/member/login">로그인</a>
+    <a href="/member/memberList">맴버리스트</a>
 </body>
 </html>

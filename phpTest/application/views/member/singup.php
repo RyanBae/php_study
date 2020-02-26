@@ -14,7 +14,7 @@
 <br>
 <div style="border: solid 1px #191919; width: 200px;">
 <br>
-<form action="/member/userInsert" method="post">
+<form action="/member/userInsert" method="GET">
     ID :: <input type="text" name="userId"><br>
     PASS :: <input type="text" name="password"><br>
     NAME :: <input type="text" name="userName"><br><br>

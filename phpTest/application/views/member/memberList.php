@@ -10,18 +10,8 @@
 <body>
 <br>
 
-<h2>회원가입 완료</h2>
+<h2>맴버리스트</h2>
 <br>
-<div style="border: solid 1px #191919; width: 200px;">
-    <br>
-ID :: <?= $data['userId'];?>
-    <br>
-PASS :: <?= $data['password'];?>
-    <br>
-NAME :: <?= $data['userName'];?>
-    <br><br>
-</div>
-<a href="/member/login">login</a>
 <a href="/main">홈으로</a>
 </body>
 </html>

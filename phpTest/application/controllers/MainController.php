@@ -8,6 +8,9 @@ class MainController{
     public function main(){
         require_once $_SERVER['DOCUMENT_ROOT'] . '/application/views/main.php';
     }
+    public function error(){
+        require_once $_SERVER['DOCUMENT_ROOT'] . '/application/views/error/error.php';
+    }
 //    public function router(){
 //        echo '===MainController > Router 진입 ';
 //        echo '<br>';

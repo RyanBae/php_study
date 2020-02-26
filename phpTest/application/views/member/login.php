@@ -14,7 +14,7 @@
 <br>
 <div style="border: solid 1px #191919; width: 200px;">
     <br>
-    <form action="/member/loginComplete" method="post">
+    <form action="/member/loginComplete?getTest=isGet" method="POST">
         ID :: <input type="text" name="userId"><br>
         PASS :: <input type="text" name="password"><br>
         <button type="submit">로그인</button>

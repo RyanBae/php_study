@@ -21,7 +21,7 @@
     NAME :: <?= $result['userName'];?>
     <br><br>
 </div>
-<a href="/member/login">login</a>
+<a href="/mypage/addInfo">추가정보입력</a>
 <a href="/main">홈으로</a>
 </body>
 </html>

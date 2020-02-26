@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92b51183-97df-40a5-824d-39830f713234" name="Default Changelist" comment="" />
+    <list default="true" id="92b51183-97df-40a5-824d-39830f713234" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../phpTest/application/views/error/error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phpTest/application/views/member/memberList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../phpTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpTest/application/controllers/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpTest/application/controllers/MainController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpTest/application/controllers/MemberController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpTest/application/controllers/MemberController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpTest/application/controllers/MypageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpTest/application/controllers/MypageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpTest/application/model/Member.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpTest/application/model/Member.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpTest/application/router/router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpTest/application/router/router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpTest/application/views/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpTest/application/views/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpTest/application/views/member/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpTest/application/views/member/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpTest/application/views/member/singup.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpTest/application/views/member/singup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpTest/application/views/mypage/updateComplete.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpTest/application/views/mypage/updateComplete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phpTest/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../phpTest/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +26,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -103,6 +121,7 @@
       <workItem from="1580867060170" duration="651000" />
       <workItem from="1580953911545" duration="1995000" />
       <workItem from="1580977222515" duration="2000" />
+      <workItem from="1582509054662" duration="1707000" />
     </task>
     <servers />
   </component>
